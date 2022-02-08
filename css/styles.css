@@ -64,3 +64,11 @@ body {
 .controls .controls__range {
     margin-bottom: 3px;
 }
+
+#colorInputText, #colorInputColor {
+    margin-bottom: 30px;
+}
+
+#colorInputColor {
+    height: 21px;
+}
